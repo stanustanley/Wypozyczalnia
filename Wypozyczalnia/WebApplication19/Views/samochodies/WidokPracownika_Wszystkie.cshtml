@@ -1,0 +1,119 @@
+﻿@model List<WebApplication19.ViewModel.Samochod_Dane_Cena>
+@using WebApplication19;
+
+
+@{
+    ViewBag.Title = "WidokPracownika_Wszystkie";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Wszystkie samochody</h2>
+
+<p>
+    @Html.ActionLink("Nowy samochód", "Create")
+</p>
+
+
+<table class="table">
+    <tr>
+        <th>
+
+          Marka
+        </th>
+        <th>
+
+            Cena [zł]
+        </th>
+        <th>
+
+            Koniec obowiązywania ceny
+        </th>
+        <th>
+
+            Przebieg [tyś km]
+        </th>
+        <th>
+
+            Pojemność [dm3]
+        </th>
+        <th>
+
+            Kolor
+        </th>
+        <th>
+
+            Typ
+        </th>
+        <th>
+
+           Rok produkcji
+        </th>
+        <th>
+
+            Nazwa samochodu
+        </th>
+
+        <th></th>
+    </tr>
+
+
+
+    @foreach (var r in Model)
+    {
+
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => r.marka)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.cena) 
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.koniec_ceny)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.przebieg) 
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.pojemnosc) 
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.kolor)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.typ)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.rok_produkcji)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.nazwa_samochodu)
+
+            </td>
+
+            <td>
+
+                @Html.ActionLink("Edytuj", "Edit", new { id = r.id }) |
+                @Html.ActionLink("Usuń", "Delete", new { id = r.id }) |
+                @Html.ActionLink("Dodaj Cenę", "DodajCene", new { id = r.id })
+
+            </td>
+        </tr>
+
+    }
+
+
+
+
+
+
+</table>

@@ -1,0 +1,121 @@
+﻿@model List<WebApplication19.ViewModel.Samochod_Dane_Cena>
+@using WebApplication19;
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista dostępnych samochodów</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+
+            Marka
+        </th>
+        <th>
+
+            Model
+        </th>
+
+        <th>
+
+            Cena [zł]
+        </th>
+        <th>
+
+            Opis
+        </th>
+        <th>
+
+            Cena obowiązuje do
+        </th>
+        <th>
+
+            Przebieg [tyś km]
+        </th>
+        <th>
+
+            Pojemność [dm3]
+        </th>
+        <th>
+
+            Kolor
+        </th>
+        <th>
+
+            Typ
+        </th>
+        <th>
+
+            Rok produkcji
+        </th>
+
+        <th></th>
+    </tr>
+
+
+
+    @foreach (var r in Model)
+    {
+
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => r.marka)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.nazwa_samochodu)
+
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => r.cena) 
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.dane)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.koniec_ceny.Date)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.przebieg) 
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.pojemnosc) 
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.kolor)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.typ)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.rok_produkcji)
+
+            </td>
+
+            <td>
+                @Html.ActionLink("Wypożycz", "Zlecenie_wypozyczenia", new { id = r.id })
+                
+            </td>
+        </tr>
+
+    }
+
+
+
+
+
+
+</table>

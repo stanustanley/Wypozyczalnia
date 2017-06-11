@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WypozyczalniaModelStoreContainer" CdmEntityContainer="WypozyczalniaEntities">
+    <EntitySetMapping Name="adres_klienta">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.adres_klienta">
+        <MappingFragment StoreEntitySet="adres_klienta">
+          <ScalarProperty Name="id_adres_klienta" ColumnName="id_adres_klienta" />
+          <ScalarProperty Name="kod_miasta" ColumnName="kod_miasta" />
+          <ScalarProperty Name="miasto" ColumnName="miasto" />
+          <ScalarProperty Name="ulica" ColumnName="ulica" />
+          <ScalarProperty Name="nr_domu" ColumnName="nr_domu" />
+          <ScalarProperty Name="nr_mieszkania" ColumnName="nr_mieszkania" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cena_wynajmu">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.cena_wynajmu">
+        <MappingFragment StoreEntitySet="cena_wynajmu">
+          <ScalarProperty Name="id_cena_wynajmu" ColumnName="id_cena_wynajmu" />
+          <ScalarProperty Name="cena_wynajmu1" ColumnName="cena_wynajmu" />
+          <ScalarProperty Name="poczatek_obowiazywania_ceny" ColumnName="poczatek_obowiazywania_ceny" />
+          <ScalarProperty Name="koniec_obowiazywania_ceny" ColumnName="koniec_obowiazywania_ceny" />
+          <ScalarProperty Name="samochody_id_samochodu" ColumnName="samochody_id_samochodu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="dane_samochodu">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.dane_samochodu">
+        <MappingFragment StoreEntitySet="dane_samochodu">
+          <ScalarProperty Name="id_danych_samochodu" ColumnName="id_danych_samochodu" />
+          <ScalarProperty Name="marka" ColumnName="marka" />
+          <ScalarProperty Name="typ" ColumnName="typ" />
+          <ScalarProperty Name="rok_produkcji" ColumnName="rok_produkcji" />
+          <ScalarProperty Name="kolor" ColumnName="kolor" />
+          <ScalarProperty Name="poj_silnika" ColumnName="poj_silnika" />
+          <ScalarProperty Name="przebieg" ColumnName="przebieg" />
+          <ScalarProperty Name="dane_samochodu1" ColumnName="dane_samochodu" />
+          <ScalarProperty Name="id_samochodu" ColumnName="id_samochodu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="klient">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.klient">
+        <MappingFragment StoreEntitySet="klient">
+          <ScalarProperty Name="id_klienta" ColumnName="id_klienta" />
+          <ScalarProperty Name="imie" ColumnName="imie" />
+          <ScalarProperty Name="nazwisko" ColumnName="nazwisko" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="id_adres_klienta" ColumnName="id_adres_klienta" />
+          <ScalarProperty Name="uzytkownicy_id_uzytkownika" ColumnName="uzytkownicy_id_uzytkownika" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pracownik">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.pracownik">
+        <MappingFragment StoreEntitySet="pracownik">
+          <ScalarProperty Name="id_pracownika" ColumnName="id_pracownika" />
+          <ScalarProperty Name="imie" ColumnName="imie" />
+          <ScalarProperty Name="nazwisko" ColumnName="nazwisko" />
+          <ScalarProperty Name="kod_miasta" ColumnName="kod_miasta" />
+          <ScalarProperty Name="miasto" ColumnName="miasto" />
+          <ScalarProperty Name="ulica" ColumnName="ulica" />
+          <ScalarProperty Name="uzytkownicy_id_uzytkownika" ColumnName="uzytkownicy_id_uzytkownika" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="samochody">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.samochody">
+        <MappingFragment StoreEntitySet="samochody">
+          <ScalarProperty Name="id_samochodu" ColumnName="id_samochodu" />
+          <ScalarProperty Name="nazwa_samochodu" ColumnName="nazwa_samochodu" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uzytkownicy">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.uzytkownicy">
+        <MappingFragment StoreEntitySet="uzytkownicy">
+          <ScalarProperty Name="id_uzytkownika" ColumnName="id_uzytkownika" />
+          <ScalarProperty Name="nazwa_uzytkownika" ColumnName="nazwa_uzytkownika" />
+          <ScalarProperty Name="haslo" ColumnName="haslo" />
+          <ScalarProperty Name="typ" ColumnName="typ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="wypozyczenia">
+      <EntityTypeMapping TypeName="WypozyczalniaModel.wypozyczenia">
+        <MappingFragment StoreEntitySet="wypozyczenia">
+          <ScalarProperty Name="id_wypozyczenia" ColumnName="id_wypozyczenia" />
+          <ScalarProperty Name="id_klienta" ColumnName="id_klienta" />
+          <ScalarProperty Name="id_pracownika" ColumnName="id_pracownika" />
+          <ScalarProperty Name="id_samochodu" ColumnName="id_samochodu" />
+          <ScalarProperty Name="data_wypozyczenia" ColumnName="data_wypozyczenia" />
+          <ScalarProperty Name="data_oddania" ColumnName="data_oddania" />
+          <ScalarProperty Name="stan_wypozyczenia" ColumnName="stan_wypozyczenia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

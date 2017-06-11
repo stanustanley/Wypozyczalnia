@@ -1,0 +1,97 @@
+﻿@model WebApplication19.ViewModel.RegisterViewModel
+@{
+    ViewBag.Title = "Register1";
+}
+
+<h2>Zarejestruj się</h2>
+
+@using (Html.BeginForm("Register1", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>Stwórz konto klienta</h4>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Adres_klienta.id_adres_klienta)
+    @Html.HiddenFor(model => model.Klient.id_klienta)
+
+    <hr />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        <div class="col-md-10">
+            email
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            hasło
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            powtórz hasło
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            imię
+            @Html.TextBoxFor(m => m.Klient.imie, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            nazwisko
+            @Html.TextBoxFor(m => m.Klient.nazwisko, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            numer telefonu
+            @Html.TextBoxFor(m => m.Klient.telefon, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">        
+        <div class="col-md-10">
+            numer domu
+            @Html.TextBoxFor(m => m.Adres_klienta.nr_domu, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            numer lokalu
+            @Html.TextBoxFor(m => m.Adres_klienta.nr_mieszkania, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+       
+        <div class="col-md-10">
+            ulica
+            @Html.TextBoxFor(m => m.Adres_klienta.ulica, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">        
+        <div class="col-md-10">
+            kod miasta
+            @Html.TextBoxFor(m => m.Adres_klienta.kod_miasta, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+          <div class="col-md-10">
+            miasto
+            @Html.TextBoxFor(m => m.Adres_klienta.miasto, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Zarejestruj" />
+        </div>
+    </div>
+    <p> Jeżeli nie możesz się zarejestrować oznacza to, że któreś z pól zostało wypełnione niepoprawnie, bądź użytkownik o takim adresie email już istnieje</p>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

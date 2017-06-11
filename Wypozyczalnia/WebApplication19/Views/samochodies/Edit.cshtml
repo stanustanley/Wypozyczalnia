@@ -1,0 +1,92 @@
+﻿@model WebApplication19.SamochodDaneCena
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Edytuj samochód</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Samochod.id_samochodu)
+        @Html.HiddenFor(model => model.Dane.id_danych_samochodu)
+        @Html.HiddenFor(model => model.Dane.id_samochodu)
+        @Html.HiddenFor(model => model.Dane.marka)
+        @Html.HiddenFor(model => model.Dane.poj_silnika)
+        @Html.HiddenFor(model => model.Dane.rok_produkcji)
+        @Html.HiddenFor(model => model.Dane.typ)
+        @Html.HiddenFor(model => model.Cena.id_cena_wynajmu)
+        @Html.HiddenFor(model => model.Cena.samochody_id_samochodu)
+        @Html.HiddenFor(model => model.Samochod.nazwa_samochodu)
+        @Html.HiddenFor(model => model.Dane.kolor)
+        @Html.HiddenFor(model => model.Samochod.deleted)
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                Cena wynajmu
+                @Html.EditorFor(model => model.Cena.cena_wynajmu1, new { htmlAttributes = new { @class = "form-control" } })
+
+            </div>
+        </div>
+
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                Przebieg [tyś km]
+                @Html.EditorFor(model => model.Dane.przebieg, new { htmlAttributes = new { @class = "form-control" } }) 
+
+            </div>
+        </div>
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                Opis/wyposażenie
+                @Html.EditorFor(model => model.Dane.dane_samochodu1, new { htmlAttributes = new { @class = "form-control" } })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                Początek obowiązywania ceny
+                @Html.EditorFor(model => model.Cena.poczatek_obowiazywania_ceny, new { htmlAttributes = new { @class = "form-control" } })
+  
+            </div>
+        </div>
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                Koniec obowiązywania ceny
+                @Html.EditorFor(model => model.Cena.koniec_obowiazywania_ceny, new { htmlAttributes = new { @class = "form-control" } })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Zapisz" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Wróć do listy", "WidokPracownika_AktualnaCena")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

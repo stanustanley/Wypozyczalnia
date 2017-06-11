@@ -1,0 +1,820 @@
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michal\Downloads\testwebap\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 19.09v2\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Bartek\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Desktop\testwebap 19.09v3\testwebap 19.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michał\Desktop\testwebap 19.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2 brudna, ale działająca xd\testwebap 23.09v2 brudna, ale działająca\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2 brudna, ale działająca xd\testwebap 23.09v2 brudna, ale działająca\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\Michal\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\ApplicationInsights.config
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.Web.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\Michał\Desktop\testwebap 23.09v2\testwebap 23.09v2\testwebap 23.09\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb

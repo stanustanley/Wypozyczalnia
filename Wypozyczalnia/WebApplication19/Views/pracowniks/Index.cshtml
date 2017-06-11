@@ -1,0 +1,60 @@
+﻿@model IEnumerable<WebApplication19.Models.pracownik>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Pracownicy</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Imię
+        </th>
+        <th>
+            Nazwisko
+        </th>
+        <th>
+            Kod miasta
+        </th>
+        <th>
+            Miasto
+        </th>
+        <th>
+           Ulica
+        </th>
+        <th>
+            Nazwa użytkownika
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.imie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nazwisko)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.kod_miasta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.miasto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ulica)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.uzytkownicy.nazwa_uzytkownika)
+        </td>
+        <td>
+            @Html.ActionLink("Zmień Dane", "Edit", new { id=item.id_pracownika }) |
+
+        </td>
+    </tr>
+}
+
+</table>

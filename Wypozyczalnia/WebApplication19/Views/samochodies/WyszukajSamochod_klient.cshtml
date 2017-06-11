@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "WyszukajSamochod_klient";
+}
+
+<h2>Wyszukaj samochód</h2>
+@using (Html.BeginForm("WyszukajSamochod_klient", "samochodies", FormMethod.Post))
+{
+    <span><br /> Samochody tańsze niż <br /></span>
+    @Html.TextBox("i")
+    <br />
+    <span><br />Wybierz typ samochodu <br /></span>
+    @Html.DropDownList("typ", new SelectList(new[] { "wszystkie", "osobowy", "terenowy", "rodzinny", "sportowy", "luksusowy" }))
+    <br />
+        <br />
+    <input type="submit" value="Wyszukaj" class="btn btn-default" />
+}

@@ -1,0 +1,40 @@
+﻿@model WebApplication19.EdycjaStan
+
+@{
+    ViewBag.Title = "Zlecenie_wypozyczenia";
+}
+
+
+<h3>Czy chcesz wypożyczyć poniższy samochód?</h3>
+<div>
+
+    <hr />
+
+    <dl class="dl-horizontal">
+
+
+        <dd>
+
+            <h2>
+                @Html.DisplayFor(model => model.Samochod.dane_samochodu.FirstOrDefault(x => x.id_samochodu == model.Samochod.id_samochodu).marka)
+                @Html.DisplayFor(model => model.Samochod.nazwa_samochodu)
+            </h2>
+         </dd>
+
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.Samochod.id_samochodu)
+
+        @Html.TextBox("data1", "", new { @id = "datepick", type = "date" })
+        @Html.TextBox("data2", "", new { @id = "datepick", type = "date" })
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Tak" class="btn btn-default" /> |
+            @Html.ActionLink("Wróć do listy", "WidokKlienta")
+        </div>
+    }
+</div>

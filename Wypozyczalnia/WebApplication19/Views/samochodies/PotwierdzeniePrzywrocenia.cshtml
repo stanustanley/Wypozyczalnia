@@ -1,0 +1,30 @@
+﻿
+@model WebApplication19.Models.wypozyczenia
+@{
+    ViewBag.Title = "PotwierdzeniePrzywrocenia";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+
+
+<h3>Czy klient oddał samochód?</h3>
+<div>
+    
+    <hr />
+
+    <dl class="dl-horizontal">
+        <dt>
+       
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.id_wypozyczenia)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Tak" class="btn btn-default" /> |
+            @Html.ActionLink("Nie", "WypozyczoneSamochody")
+        </div>
+    }
+</div>

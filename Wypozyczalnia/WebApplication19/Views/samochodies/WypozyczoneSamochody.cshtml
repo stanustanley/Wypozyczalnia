@@ -1,0 +1,107 @@
+﻿@model List<WebApplication19.ViewModel.Zlecenie_wyp>
+@using WebApplication19;
+
+
+@{
+    ViewBag.Title = "WypozyczoneSamochody";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+
+
+<table class="table">
+    <tr>
+        <th>
+
+            Data oddania
+        </th>
+        <th>
+
+            Data wypożyczenia
+        </th>
+        <th>
+
+            Imię klienta
+        </th>
+        <th>
+
+            Nazwisko klienta
+        </th>
+        <th>
+
+            Nazwa samochodu
+        </th>
+        <th>
+
+            Imię pracownika
+        </th>
+        <th>
+
+            Nazwisko pracownika
+        </th>
+        <th>
+
+            Telefon klienta
+        </th>
+        <th>
+
+            Cena ogólna
+        </th>
+
+
+        <th></th>
+    </tr>
+
+
+
+    @foreach (var r in Model)
+    {
+
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => r.Data_odd)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Data_wyp)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Imie_klienta)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Nazw_klienta)
+
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Nazwa_sam)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Imie_prac)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Nazw_prac)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Telefon_klienta)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => r.Cena)
+
+            </td>
+
+            <td>
+
+                @Html.ActionLink("Przywróć", "PotwierdzeniePrzywrocenia", new { id = r.Id_wyp })
+            </td>
+        </tr>
+
+    }
+    </table>

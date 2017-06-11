@@ -1,0 +1,37 @@
+﻿@model WebApplication19.SamochodDaneCena
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h3>Czy chcesz usunąć poniższy samochód?</h3>
+<div>
+ 
+    <hr />
+
+    <dl class="dl-horizontal">
+        <dt>
+            
+        </dt>
+
+        <dd>
+            <h2>
+                @Html.DisplayFor(model => model.Dane.marka)
+                @Html.DisplayFor(model => model.Samochod.nazwa_samochodu)
+            </h2>
+        </dd>
+
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.Samochod.id_samochodu)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" /> |
+            @Html.ActionLink("Wróć do listy", "WidokPracownika_AktualnaCena")
+        </div>
+    }
+</div>

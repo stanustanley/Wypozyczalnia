@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "StrefaPracownika";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Strefa Pracownika</h2>
+<li>@Html.ActionLink("Zmień dane pracownika", "Index", "Pracowniks")</li>
+<li>@Html.ActionLink("Zlecenia", "ZleconeWypozyczenia", "Samochodies")</li>
+<li>@Html.ActionLink("Wypożyczone", "WypozyczoneSamochody", "Samochodies")</li>
+<li>@Html.ActionLink("Dodaj samochód", "Create", "Samochodies")</li>
+<li>@Html.ActionLink("Do wynajęcia", "WidokPracownika_AktualnaCena", "Samochodies")</li>
+<li>@Html.ActionLink("Wszystkie", "WidokPracownika_Wszystkie", "Samochodies")</li>
+<li>@Html.ActionLink("Wyszukaj Samochód", "WyszukajSamochod_prac", "Samochodies")</li>

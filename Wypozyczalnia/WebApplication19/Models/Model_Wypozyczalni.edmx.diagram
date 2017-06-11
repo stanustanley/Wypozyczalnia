@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4ea9b41d59a6483cbbd52051840ed064" Name="Diagram1">
+        <EntityTypeShape EntityType="WypozyczalniaModel.adres_klienta" Width="1.5" PointX="0.625" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.cena_wynajmu" Width="1.5" PointX="3.875" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.dane_samochodu" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.klient" Width="1.5" PointX="3.625" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.pracownik" Width="1.5" PointX="6.375" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.samochody" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.uzytkownicy" Width="1.5" PointX="1.125" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WypozyczalniaModel.wypozyczenia" Width="1.5" PointX="5.875" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_kli_to_adr_kli" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_cena_wyn_to_sam" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_dane_sam_do_sam" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_kli_to_uzy" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_wyp_to_klie" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_pra_to_uzy" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_wyp_to_pra" ManuallyRouted="false" />
+        <AssociationConnector Association="WypozyczalniaModel.fk_wyp_to_sam" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

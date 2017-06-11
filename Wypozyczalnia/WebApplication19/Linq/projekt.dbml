@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Wypozyczalnia" Class="projektDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Wypozyczalnia.mdf;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="WypozyczalniaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.adres_klienta" Member="adres_klientas">
+    <Type Name="adres_klienta">
+      <Column Name="id_adres_klienta" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="kod_miasta" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="miasto" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="ulica" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="nr_domu" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="nr_mieszkania" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Association Name="adres_klienta_klient" Member="klients" ThisKey="id_adres_klienta" OtherKey="id_adres_klienta" Type="klient" />
+    </Type>
+  </Table>
+  <Table Name="dbo.cena_wynajmu" Member="cena_wynajmus">
+    <Type Name="cena_wynajmu">
+      <Column Name="id_cena_wynajmu" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cena_wynajmu" Member="cena_wynajmu1" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="poczatek_obowiazywania_ceny" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="koniec_obowiazywania_ceny" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="samochody_id_samochodu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="samochodyt_cena_wynajmu" Member="samochodyt" Storage="_samochody" ThisKey="samochody_id_samochodu" OtherKey="id_samochodu" Type="samochodyt" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.dane_samochodu" Member="dane_samochodus">
+    <Type Name="dane_samochodu">
+      <Column Name="id_danych_samochodu" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="marka" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="typ" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="rok_produkcji" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="kolor" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="poj_silnika" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="przebieg" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="dane_samochodu" Member="dane_samochodu1" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="id_samochodu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="samochodyt_dane_samochodu" Member="samochodyt" Storage="_samochody" ThisKey="id_samochodu" OtherKey="id_samochodu" Type="samochodyt" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.klient" Member="klients">
+    <Type Name="klient">
+      <Column Name="id_klienta" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="imie" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="nazwisko" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="telefon" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="id_adres_klienta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="uzytkownicy_id_uzytkownika" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="klient_wypozyczenia" Member="wypozyczenias" ThisKey="id_klienta" OtherKey="id_klienta" Type="wypozyczenia" />
+      <Association Name="adres_klienta_klient" Member="adres_klienta" ThisKey="id_adres_klienta" OtherKey="id_adres_klienta" Type="adres_klienta" IsForeignKey="true" />
+      <Association Name="uzytkownicy_klient" Member="uzytkownicy" ThisKey="uzytkownicy_id_uzytkownika" OtherKey="id_uzytkownika" Type="uzytkownicy" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.pracownik" Member="pracowniks">
+    <Type Name="pracownik">
+      <Column Name="id_pracownika" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="imie" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="nazwisko" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="kod_miasta" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="miasto" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="ulica" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="uzytkownicy_id_uzytkownika" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="pracownik_wypozyczenia" Member="wypozyczenias" ThisKey="id_pracownika" OtherKey="id_pracownika" Type="wypozyczenia" />
+      <Association Name="uzytkownicy_pracownik" Member="uzytkownicy" ThisKey="uzytkownicy_id_uzytkownika" OtherKey="id_uzytkownika" Type="uzytkownicy" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.samochody" Member="samochodyts">
+    <Type Name="samochodyt">
+      <Column Name="id_samochodu" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nazwa_samochodu" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="id_cena_wynajmu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="deleted" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="samochodyt_cena_wynajmu" Member="cena_wynajmus" ThisKey="id_samochodu" OtherKey="samochody_id_samochodu" Type="cena_wynajmu" />
+      <Association Name="samochodyt_dane_samochodu" Member="dane_samochodus" ThisKey="id_samochodu" OtherKey="id_samochodu" Type="dane_samochodu" />
+      <Association Name="samochodyt_wypozyczenia" Member="wypozyczenias" ThisKey="id_samochodu" OtherKey="id_samochodu" Type="wypozyczenia" />
+    </Type>
+  </Table>
+  <Table Name="dbo.uzytkownicy" Member="uzytkownicies">
+    <Type Name="uzytkownicy">
+      <Column Name="id_uzytkownika" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nazwa_uzytkownika" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="haslo" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="typ" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Association Name="uzytkownicy_klient" Member="klients" ThisKey="id_uzytkownika" OtherKey="uzytkownicy_id_uzytkownika" Type="klient" />
+      <Association Name="uzytkownicy_pracownik" Member="pracowniks" ThisKey="id_uzytkownika" OtherKey="uzytkownicy_id_uzytkownika" Type="pracownik" />
+    </Type>
+  </Table>
+  <Table Name="dbo.wypozyczenia" Member="wypozyczenias">
+    <Type Name="wypozyczenia">
+      <Column Name="id_wypozyczenia" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_klienta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_pracownika" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_samochodu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="data_wypozyczenia" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="data_oddania" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="stan_wypozyczenia" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Association Name="klient_wypozyczenia" Member="klient" ThisKey="id_klienta" OtherKey="id_klienta" Type="klient" IsForeignKey="true" />
+      <Association Name="pracownik_wypozyczenia" Member="pracownik" ThisKey="id_pracownika" OtherKey="id_pracownika" Type="pracownik" IsForeignKey="true" />
+      <Association Name="samochodyt_wypozyczenia" Member="samochodyt" Storage="_samochody" ThisKey="id_samochodu" OtherKey="id_samochodu" Type="samochodyt" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,27 @@
+﻿@model WebApplication19.Models.wypozyczenia
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<h3>Czy klient potwierdził zamówienie?</h3>
+<div>
+
+    <hr />
+
+    <dl class="dl-horizontal">
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.id_wypozyczenia)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Tak" class="btn btn-default" /> |
+            @Html.ActionLink("Nie", "WidokKlienta")
+        </div>
+    }
+</div>
